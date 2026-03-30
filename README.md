@@ -1,1 +1,2 @@
-<img width="2662" height="1145" alt="per_step_correlation" src="https://github.com/user-attachments/assets/2f89e93e-7fa6-40b3-adc6-487085aee9ad" />
+
+<img width="855" height="435" alt="Screenshot 2026-03-30 at 10 51 33 AM" src="https://github.com/user-attachments/assets/b70b232f-867c-4e4b-a3fd-9626fe4d6ec6" />
